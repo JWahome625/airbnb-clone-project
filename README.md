@@ -65,4 +65,14 @@ This limits the number of system requests that can be done in a certain time fra
 This protects personal and financial information by concealing it in a way that even when accessed is unreadable.
 
 
+## CI/CD Pipeline Overview
+
+**CI/CD Pipeline**
+
+Set of practices and tools that automate the building, testing and deployment of software. They are important because they ensure quality, efficiency and quick turn around. 
+
+**Tools used for CI/CD**
+Github Actions -for automation and workflow management from Github. 
+Docker - For containerization 
+Jenkins - for customizable CI/CD pipelines
 
