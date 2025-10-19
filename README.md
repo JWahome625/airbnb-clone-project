@@ -34,16 +34,35 @@ Reviews  - can be written by a guest on the property
 
 ## Feature Breakdown
 
-**User Management**
+**User Management 👤**
 Allows for the registration, log in and management of user profiles. It limits access of the different user profiles to ensure security. Improves user experience based on the profile by customizing
 
-**Property Management**
+**Property Management 🏠**
 Used to manage the properties in terms of listing, updating availability, editing/deleting the listing etc. Allows for host users to market their listing
 
-**Booking system**
+**Booking system 📅**
 Primarily used to search property, check availability and make reservations. It ensures that properties are not double booked and they are constantly updated. 
 
-**Payment Processing**
+**Payment Processing 💳**
 Manages payments to accept the different available methods e.g card and to ensure they are secure. Tracks payment status and records the transactions. 
+
+**Review and ratings ⭐**
+A guest can give their feedback on their stay and service quality. Hosts can also give feedback on their guests conduct. This promotes good service and good conduct. 
+
+
+##  API Security Overview
+
+**Authentication 🔐**
+Verifies user identity to ensure only the account owners access their accounts. Eliminates and minimizes identity theft that can lead to fraud. 
+
+**Authorization 🧾**
+Limits what users can do on the system i.e users can only perform actions that they are allowed to.
+
+**Rate Limiting 🚫**
+This limits the number of system requests that can be done in a certain time frame. 
+
+**Data Encryption 🔒**
+This protects personal and financial information by concealing it in a way that even when accessed is unreadable.
+
 
 
